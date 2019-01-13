@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MisNumeros</string>
+    <string name="action_settings">Settings</string>
+    <string name="numero_Secreto">Numero Secreto</string>
+    <string name="numero_Con_Formato">Numero Con Formato</string>
+
+</resources>

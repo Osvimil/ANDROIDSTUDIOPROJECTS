@@ -1,0 +1,9 @@
+<resources>
+    <string name="usuarion">Usuario (4 a 16 letras o digitos)</string>
+    <string name="nombre">Nombre</string>
+    <string name="app_name">MiTexto</string>
+    <string name="hola">hola %s</string>
+    <string name="valor_incorrecto">Valor incorrecto</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

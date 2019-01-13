@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EjemploDrawer</string>
+
+
+    <string-array name="icons">
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+        <item>@drawable/ic_important_devices_black_24dp</item>
+    </string-array>
+
+    <string-array name="titulos">
+
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+        <item>Opción 5</item>
+        <item>Opción 6</item>
+        <item>Opción 7</item>
+        <item>Opción 8</item>
+
+
+    </string-array>
+</resources>

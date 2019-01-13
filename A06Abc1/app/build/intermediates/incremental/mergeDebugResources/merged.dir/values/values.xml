@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_agregar">Agregar</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_guardar">Guardar</string>
+    <string name="actualizando">Actualizando…</string>
+    <string name="agregando">Agregando…</string>
+    <string name="app_name">A06Abc</string>
+    <string name="chismoso_eliminado">1 chismoso eliminado</string>
+    <string name="chismoso_guardado">Chismoso guardado</string>
+    <string name="confirma_eliminacion">Confirma la Eliminación</string>
+    <string name="eliminando">Eliminando…</string>
+    <string name="error_cargando_modelo">Error cargando modelo.</string>
+    <string name="guardando">Guardando…</string>
+    <string name="hora_del_pan">Hora del Pan</string>
+    <string name="idolo">Ídolo</string>
+    <string name="nacimiento">Nacimiento</string>
+    <string name="nombre">Nombre</string>
+    <string name="perdera_datos">¡Perderás los datos!</string>
+    <string name="proxima_cita">Próxima Cita con tu Peor es Nada</string>
+    <string name="selecciona_fecha">Selecciona Fecha</string>
+    <string name="selecciona_hora">Selecciona Hora</string>
+    <string name="seleccionado_1">1 seleccionado</string>
+    <string name="title_activity_chismoso">Nuevo Chismoso</string>
+    <string name="vacio">No hay chismosos registrados.</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

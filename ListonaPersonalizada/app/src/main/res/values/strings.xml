@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListonaPersonalizada</string>
+    <string name="nombre">NOMBRE </string>
+    <string name="encabezado">YO SOY EL ENCABEZADO</string>
+</resources>

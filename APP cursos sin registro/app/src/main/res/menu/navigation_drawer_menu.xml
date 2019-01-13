@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/item_navigation_drawer_eye"
+            android:icon="@drawable/ic_remove_red_eye_black_24dp"
+            android:title="Acerca de" />
+        <item
+            android:id="@+id/item_navigation_drawer_user"
+            android:icon="@drawable/ic_highlight_black_24dp"
+            android:title="Icon courses" />
+        <item
+            android:id="@+id/item_navigation_drawer_open"
+            android:icon="@drawable/ic_lock_open_black_24dp"
+            android:title="Cursos básicos" />
+        <item
+            android:id="@+id/item_navigation_drawer_close"
+            android:icon="@drawable/ic_lock_outline_black_24dp"
+            android:title="Cursos premium" />
+        <item
+            android:id="@+id/item_navigation_drawer_pdf"
+            android:icon="@drawable/ic_insert_drive_file_black_24dp"
+            android:title="PDF's de los cursos" />
+    </group>
+
+    <item android:title="Subheader">
+        <menu>
+            <item
+                android:id="@+id/item_navigation_drawer_message"
+                android:icon="@drawable/ic_chat_black_24dp"
+                android:title="Comentarios" />
+            <item
+                android:id="@+id/item_navigation_drawer_help"
+                android:icon="@drawable/ic_help_black_24dp"
+                android:title="Ayuda" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragmentitis</string>
+    <string name="fragb">SOY FRAGMENTO B</string>
+    <string name="fraga">SOY FRAGMENTO A</string>
+    <string name="datos">ESCRIBE DATO A </string>
+    <string name="envio">MANDAR DATO </string>
+</resources>

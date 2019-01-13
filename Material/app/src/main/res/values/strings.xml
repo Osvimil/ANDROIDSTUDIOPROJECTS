@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material</string>
+    <string name="nombre">PUT YOUR NAME</string>
+    <string name="password">PUT YOUR PASSWORD</string>
+    <string name="mostrar">Visualize it</string>
+
+</resources>

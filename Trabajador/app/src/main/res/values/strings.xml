@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Trabajador</string>
+    <string name="recibo">RECIBO DE NÓMINA</string>
+    <string name="numero">NUMERO DE EMPLEADO</string>
+    <string name="colocar_numero">Put your No. employee</string>
+    <string name="nombre">NOMBRE DEL EMPLEADO</string>
+    <string name="colocar_nombre">Put your name</string>
+    <string name="dias">DIAS TRABAJADOS</string>
+    <string name="colocar_dias_trabajados">Write your days worked</string>
+    <string name="sueldo_dia">SUELDO DIARIO</string>
+    <string name="sueldo_diario">Write your salary per day</string>
+    <string name="sueldo_total">SUELDO TOTAL</string>
+    <string name="sueldo_final">Your final salary</string>
+    <string name="poner_fecha">OBTENER FECHA</string>
+    <string name="fecha_pago">FECHA DE PAGO</string>
+    <string name="realizar_calculo">CALCULAR</string>
+</resources>

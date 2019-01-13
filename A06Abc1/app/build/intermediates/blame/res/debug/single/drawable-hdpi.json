@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_editar.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_editar.png"
+    },
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_importante.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_importante.png"
+    },
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_agregar.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_agregar.png"
+    },
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_eliminar.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_eliminar.png"
+    },
+    {
+        "merged": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_guardar.png",
+        "source": "C:\\Users\\ricka\\Documents\\samsung\\ANDROID\\A06Abc1\\app\\src\\main\\res\\drawable-hdpi\\ic_action_guardar.png"
+    }
+]

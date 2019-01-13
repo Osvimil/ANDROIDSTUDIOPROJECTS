@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="boton_encender">ENCENDER LUZ</string>
+    <string name="boton_apagar">APAGAR LUZ</string>
+</resources>

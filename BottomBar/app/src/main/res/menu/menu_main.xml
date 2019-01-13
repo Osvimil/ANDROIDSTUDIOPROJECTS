@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/BottonUno"
+        android:icon="@drawable/ic_fingerprint_black_24dp"
+        android:title="Dedos">
+
+    </item>
+    <item android:id="@+id/BottonDos"
+        android:icon="@drawable/ic_g_translate_black_24dp"
+        android:title="Traduccion">
+
+    </item>
+    <item android:id="@+id/BottonTres"
+        android:icon="@drawable/ic_gavel_black_24dp"
+        android:title="Juez">
+
+    </item>
+    <item android:id="@+id/BottonCuatro"
+        android:icon="@drawable/ic_open_in_browser_black_24dp"
+        android:title="Abrir">
+
+    </item>
+    <item android:id="@+id/BottonCinco"
+        android:icon="@drawable/ic_pan_tool_black_24dp"
+        android:title="Aqui">
+
+    </item>
+
+</menu>

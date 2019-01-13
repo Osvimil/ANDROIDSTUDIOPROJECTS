@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActividadesAndroid</string>
+    <string name="aprietalo">Pasar a otra actividad</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="textea">Mensaje</string>
+    <string name="escribe">Texto para enviar</string>
+</resources>

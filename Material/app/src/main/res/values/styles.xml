@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@drawable/mobil</item>
+
+        <item name="android:textColor">#FF616264</item>
+        <item name="android:colorPrimary">#CDDC39</item>
+        <item name="android:colorPrimaryDark">#AFB42B</item>
+        <item name="android:textColorPrimary">#ff0000</item>
+        <item name="android:colorButtonNormal">#FFA8B1C4</item>
+        <item name="android:colorAccent">#FFC0D2F7</item>
+    </style>
+
+</resources>

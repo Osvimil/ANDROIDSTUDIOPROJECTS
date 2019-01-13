@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Algebra</string>
+    <string name="calcular">CALCULAR LA SIGUIENTE EXPRESION</string>
+    <string name="checar">a = (2*x+f)/(x-2f) </string>
+    <string name="x">X</string>
+    <string name="f">F</string>
+    <string name="presionar">CALCULAR VALORES</string>
+</resources>

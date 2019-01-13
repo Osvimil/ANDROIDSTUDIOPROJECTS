@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Textos</string>
+    <string name="textos">Textos</string>
+    <string name="action_procesar">Procesar</string>
+    <string name="cualquier_texto">Introduce cualquier texto</string>
+    <string name="nombre">Nombre</string>
+    <string name="secreto">Secreto</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="teléfono">Teléfono</string>
+    <string name="dirección">Dirección</string>
+    <string name="verso">Verso</string>
+    <string name="navegador">Navegador de Internet</string>
+    <string name="url">URL</string>
+    <string name="procesar">Procesar</string>
+    <string name="valor_incorrecto">Valor incorrecto.</string>
+    <string name="abrir_cajon">Abrir cajón de navegación</string>
+    <string name="cerrar_cajon">Cerrar cajón de navegación</string>
+    <string name="usuario">Usuario (4 a 16 letras o dígitos)</string>
+    <string name="hola">Hola %s</string>
+    <string name="action_limpiar">Limpiar</string>
+    <string-array name="navegadores_array">
+        <item>Internet Explorer</item>
+        <item>Firefox</item>
+        <item>Chrome</item>
+        <item>Opera</item>
+        <item>Safari</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hotmail.oswaldosaldivar.interaccion.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/uno"
+        android:textAlignment="center"
+        android:text="@string/appa"
+        android:layout_gravity="center_horizontal"
+        android:textSize="30dp"
+        android:background="#dbd5d5" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imagen"
+        android:src="@drawable/images"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn1"
+        android:text="@string/boton_texto"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:background="#c7c0c0" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn2"
+        android:text="@string/boton_imagen"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:background="#bcb5b5" />
+
+
+</LinearLayout>

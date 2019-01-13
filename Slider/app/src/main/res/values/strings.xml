@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slider</string>
+
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="title_slide1">SIPPLY THE BEST</string>
+    <string name="desc_slide1">Ejemplo de descripcion de algo</string>
+    <string name="title_slide2">SIPPLU WINNING BATTLES</string>
+    <string name="desc_slide2">Ejemplo de descripcion de algo</string>
+    <string name="title_slide3">SIPPLY WE HAVE THE BEST </string>
+    <string name="desc_slide3">Ejemplo de descripcion de algo</string>
+
+</resources>

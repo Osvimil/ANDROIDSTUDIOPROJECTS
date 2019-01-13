@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hotmail.oswaldosaldivar.tostan.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/uno"
+        android:id="@+id/uno"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/one"
+        android:text="@string/uno"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/dos"
+        android:id="@+id/dos"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/two"
+        android:text="@string/dos"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tres"
+        android:text="@string/tres"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/three"
+        android:text="@string/tres"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+
+        />
+</LinearLayout>

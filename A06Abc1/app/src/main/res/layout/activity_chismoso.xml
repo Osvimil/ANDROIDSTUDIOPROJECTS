@@ -1,0 +1,116 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ChismosoActivity" >
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/lblNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:labelFor="@+id/nombre"
+            android:text="@string/nombre"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+
+            <requestFocus />
+        </TextView>
+
+        <EditText
+            android:id="@id/nombre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/lblNombre"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/lblIdolo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/nombre"
+            android:labelFor="@+id/idolo"
+            android:text="@string/idolo"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <EditText
+            android:id="@+id/idolo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblIdolo"
+            android:inputType="textPersonName" >
+        </EditText>
+
+        <TextView
+            android:id="@+id/lblNacimiento"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/idolo"
+            android:text="@string/nacimiento"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <net.rickamr.android.abc.BotonDeFecha
+            android:id="@+id/btnNacimiento"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblNacimiento"
+            android:hint="@string/selecciona_fecha" />
+
+        <TextView
+            android:id="@+id/lblHoraDelPan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/btnNacimiento"
+            android:text="@string/hora_del_pan"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <net.rickamr.android.abc.BotonDeHora
+            android:id="@+id/btnHoraDelPan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/lblHoraDelPan"
+            android:hint="@string/selecciona_hora" />
+
+        <TextView
+            android:id="@+id/lblProximaCita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/btnHoraDelPan"
+            android:text="@string/proxima_cita"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <net.rickamr.android.abc.BotonDeFecha
+            android:id="@+id/btnProximaCitaFecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@id/lblProximaCita"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:hint="@string/selecciona_fecha" />
+
+       <net.rickamr.android.abc.BotonDeHora
+            android:id="@+id/btnProximaCitaHora"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/lblProximaCita"
+            android:layout_toRightOf="@+id/btnProximaCitaFecha"
+            android:hint="@string/selecciona_hora" />
+
+    </RelativeLayout>
+
+</ScrollView>

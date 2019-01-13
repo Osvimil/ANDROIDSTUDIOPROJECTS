@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticaActividades</string>
+    <string name="title_activity_actividad">ActividadA</string>
+    <string name="title_activity_actividad_b">ActividadB</string>
+</resources>

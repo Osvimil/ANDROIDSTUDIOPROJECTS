@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BaseDeDatos1</string>
+    <string name="nombre">Pon tu nombre(s):</string>
+    <string name="apellidos">Pon tus apellidos: </string>
+    <string name="datos">Registrar </string>
+    <string name="materias">Coloca Materia: </string>
+    <string name="ver_datos">Ver datos </string>
+    <string name="actualizar">Actualizar </string>
+    <string name="id">ID: </string>
+    <string name="borrar">Borrar</string>
+
+</resources>

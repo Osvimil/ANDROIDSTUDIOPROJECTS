@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">D203endpoints</string>
+    <string name="nombre1">Nombre 1</string>
+    <string name="nombre2">Nombre 2</string>
+    <string name="saludar">Saludar</string>
+    <string name="hint_saludo">Aquí aparece el saludo para Nombre 1 y Nombre 2.</string>
+    <string name="edit_text_no_encontrado">EditText no encontrado en el archivo xml.</string>
+</resources>

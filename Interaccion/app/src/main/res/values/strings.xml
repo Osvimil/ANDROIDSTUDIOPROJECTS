@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Interaccion</string>
+    <string name="appa">IMAGEN</string>
+    <string name="boton_texto">BOTON TEXTO</string>
+    <string name="boton_imagen">BOTON IMAGEN</string>
+</resources>

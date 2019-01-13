@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Probabilidad</string>
+    <string name="calculo">Cálculo de la siguiente fórmula</string>
+    <string name="x">X</string>
+    <string name="f">F</string>
+    <string name="probo">a = (2x + f) / (x - 2f)</string>
+    <string name="calculale">REALIZAR CALCULO</string>
+</resources>

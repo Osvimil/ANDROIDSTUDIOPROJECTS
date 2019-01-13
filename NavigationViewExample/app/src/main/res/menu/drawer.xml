@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<group android:checkableBehavior="single">
+
+    <item
+        android:checked="false"
+        android:id="@+id/modificar"
+        android:icon="@drawable/ic_important_devices_black_24dp"
+        android:title="Modifcar">
+    </item>
+
+    <item
+        android:checkable="false"
+        android:id="@+id/cuentas"
+        android:icon="@drawable/ic_lock_open_black_24dp"
+        android:title="Cuentas del Usuario">
+    </item>
+
+    <item
+        android:id="@+id/redes"
+        android:checkable="false"
+        android:icon="@drawable/ic_done_black_24dp"
+        android:title="Redes sociales">
+    </item>
+
+    <item
+        android:id="@+id/cerrar"
+        android:checkable="false"
+        android:icon="@drawable/ic_video_call_white_24dp"
+        android:title="Cerrar">
+    </item>
+</group>
+</menu>

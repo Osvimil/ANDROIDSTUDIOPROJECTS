@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.hotmail.oswaldosaldivar.estilos.MainActivity">
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/editable"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="@string/numero"
+        style="@style/Numbers"
+        />
+
+    <EditText
+        android:layout_marginTop="20dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/editable1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="@string/contra"
+        style="@style/Passwords"
+        />
+    <EditText
+        android:layout_marginTop="20dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/editable2"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:hint="@string/fecha"
+        style="@style/Fecha"
+        />
+</LinearLayout>

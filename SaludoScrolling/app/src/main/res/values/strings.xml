@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaludoScrolling</string>
+    <string name="nombre1">Nombre 1</string>
+    <string name="saludo">Saludos a %1$s </string>
+    <string name="faltaValor">Falta el valor</string>
+
+</resources>

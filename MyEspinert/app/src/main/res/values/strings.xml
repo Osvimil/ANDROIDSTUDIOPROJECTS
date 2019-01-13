@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyEspinert</string>
+    <string name="nombre">Texto</string>
+    <string name="seleccion">SELECCIONA MOTO :</string>
+    <string name="opcion">SELECCIONA OPCION :</string>
+    <string-array name="motos">
+
+
+        <item>MOTO DE IMAGES</item>
+        <item>MOTO DE IPN</item>
+        <item>MOTO DE MOBIL</item>
+        <item>MOTO DE POP</item>
+        <item>MOTO DE UPIICSA</item>
+        <item>MOTO DE TRES</item>
+    </string-array>
+</resources>

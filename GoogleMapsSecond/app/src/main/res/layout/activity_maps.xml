@@ -1,0 +1,42 @@
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Button"
+            android:id="@+id/button"
+            android:layout_gravity="right"
+            android:onClick="buscar"
+            />
+
+        <EditText
+            android:layout_width="287dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tfaddress"
+            />
+
+
+    </LinearLayout>
+
+
+
+
+
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="384dp"
+    android:layout_height="473dp"
+    tools:context="oswaldoadidas.hotmail.com.googlemapssecond.MapsActivity" />
+</LinearLayout>

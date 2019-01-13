@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Espiner</string>
+    <string name="nombre">Este es un spinner</string>
+</resources>

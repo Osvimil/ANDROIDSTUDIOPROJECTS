@@ -1,0 +1,19 @@
+<resources>
+
+
+    <string name="app_name">Machorro</string>
+    <string name="artista1">Artista 1</string>
+    <string name="artista2">Artista 2</string>
+    <string name="artista3">Artista 3</string>
+    <string name="artista4">Artista 4</string>
+    <string name="artista5">Artista 5</string>
+    <string name="artista6">Artista 6</string>
+    <string name="artista7">Artista 7</string>
+    <string name="textosalida">Texto de salida</string>
+
+
+
+
+
+
+</resources>

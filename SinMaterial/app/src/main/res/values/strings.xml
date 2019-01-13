@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SinMaterial</string>
+    <string name="hola">Otro</string>
+    <string name="hola2">Primero</string>
+    <string name="presionar">Presionalo</string>
+    <string name="valor1">Valor 1</string>
+    <string name="valor2">Valor 2</string>
+</resources>

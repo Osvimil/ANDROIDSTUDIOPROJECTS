@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eqspiner</string>
+    <string-array name="materias">
+
+        <item>CALCULO DIFERENCIAL</item>
+        <item>CALCULO INTEGRAL</item>
+        <item>ESTADISTICA</item>
+        <item>PROBABILIDAD</item>
+        <item>ALGEBRA LINEAL</item>
+        <item>METODOS NUMERICOS</item>
+        <item>MECANICA CLASICA</item>
+        <item>FISICA PARA INFORMATICOS</item>
+    </string-array>
+</resources>

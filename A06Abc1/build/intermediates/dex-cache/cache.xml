@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ricka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\ricka\Documents\samsung\ANDROID\A06Abc1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_5e5d62d04919e76c454d661ccac861e2552fc0b9.jar" />
+    </item>
+
+</items>

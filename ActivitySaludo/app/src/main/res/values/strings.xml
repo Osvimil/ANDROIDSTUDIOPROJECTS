@@ -1,0 +1,11 @@
+<resources>
+
+   <string name="app_name">ActivitySaludo</string>
+    <string name="nombre1">Nombre 1</string>
+    <string name="action_saludar">Saludar</string>
+    <string name="nombre2">Nombre 2</string>
+    <string name="pepe">Pepe</string>
+    <string name="saludo">Saludo a %1$s y a  %2$s  </string>
+    <string name="falta_el_valor">Falta el valor</string>
+
+</resources>

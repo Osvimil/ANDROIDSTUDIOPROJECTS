@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Checkeds</string>
+    <string name="color1">AMARILLO</string>
+    <string name="color2">ROJO</string>
+    <string name="color3">VERDE</string>
+    <string name="boton">PRESIONA</string>
+</resources>

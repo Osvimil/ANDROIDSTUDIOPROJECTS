@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margen_de_avatar">16dp</dimen>
+    <dimen name="relleno_de_detalle">500dp</dimen>
+    <dimen name="altura_toolbar_extendida">128dp</dimen>
+    <dimen name="margen_de_contenido">72dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="fab_radio">28dp</dimen>
+    <dimen name="fab_frame_width">88dp</dimen>
+    <dimen name="fab_margin_top">80dp</dimen>
+</resources>

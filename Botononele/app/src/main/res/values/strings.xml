@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botononele</string>
+    <string name="textelo">Soy el texto</string>
+    <string name="editelo">Soy el que puedes editar</string>
+    <string name="boton1">Aprieta soy el 1</string>
+    <string name="boton2">Aprieta soy el 2</string>
+</resources>

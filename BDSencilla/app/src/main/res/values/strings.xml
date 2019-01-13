@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BDSencilla</string>
+    <string name="action_agregar">Agregar</string>
+    <string name="title_activity_listado">Listado</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono">Teléfono</string>
+    <string name="datos_incorrectos">Datos incorrectos.</string>
+</resources>

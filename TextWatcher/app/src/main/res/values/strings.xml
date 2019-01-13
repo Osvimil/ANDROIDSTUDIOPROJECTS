@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextWatcher</string>
+    <string name="write">Write your name</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActividadesEscolares</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="actividad">ACTIVIDAD 1</string>
+    <string name="boton">LLEVAR A SEGUNDA ACTIVITY</string>
+    <string name="otra">ESTAS EN LA 2DA ACTIVITY</string>
+</resources>

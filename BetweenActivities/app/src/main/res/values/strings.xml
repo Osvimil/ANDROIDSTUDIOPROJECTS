@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BetweenActivities</string>
+    <string name="title_activity_another">AnotherActivity</string>
+    <string name="cadena">PRIMERA ACTIVIDAD</string>
+    <string name="edit">EDITALO</string>
+    <string name="boton">APRIETALO</string>
+    <string name="dos">TEXTILLO</string>
+</resources>

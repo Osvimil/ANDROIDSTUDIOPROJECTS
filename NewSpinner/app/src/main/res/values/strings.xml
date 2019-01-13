@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewSpinner</string>
+    <string name="escuela">Select a university</string>
+
+    <string-array name="escuelas_nombres">
+
+        <item>---</item>
+        <item>IPN</item>
+        <item>UNAM</item>
+        <item>UAM</item>
+        <item>UACM</item>
+
+    </string-array>
+
+</resources>

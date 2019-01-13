@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculo de</string>
+    <string name="f">F</string>
+    <string name="X">X</string>
+    <string name="calcular">Calcular</string>
+    <string name="formula">a= (2x+f)/ (x-2f)</string>
+    <string name="calculo_de">calculo de</string>
+
+</resources>

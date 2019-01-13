@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="login">LOGIN</string>
+    <string name="type">password here</string>
+    <string name="pass">Write your password</string>
+    <string name="submit">SUBMIT</string>
+    <string name="cancel">CANCEL</string>
+
+
+
+</resources>

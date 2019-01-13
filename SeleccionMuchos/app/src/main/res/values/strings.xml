@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SeleccionMuchos</string>
+    <string name="action_settings">Procesar</string>
+    <string name="selecciona_3">Selecciona tu navegador favorito</string>
+    <string name="chrome">chrome</string>
+    <string name="firefox">firefox</string>
+    <string name="edge">edge</string>
+    <string name="opera">opera</string>
+    <string name="safari">safari</string>
+    <string name="action_procesar">Procesar</string>
+</resources>

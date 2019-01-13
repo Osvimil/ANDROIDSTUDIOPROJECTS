@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Expiner</string>
+    <string name="aprieta">Apriétalo</string>
+    <string name="texto">THIS IS A SPINNER</string>
+    <string-array name="colores">
+
+        <item>ROJO</item>
+        <item>VERDE</item>
+        <item>AMARILLO</item>
+        <item>AZUL</item>
+        <item>MORADO</item>
+        <item>BLANCO</item>
+        <item>NEGRO</item>
+        <item>GRIS</item>
+        <item>DORADO</item>
+        <item>PLATEADO</item>
+    </string-array>
+
+</resources>

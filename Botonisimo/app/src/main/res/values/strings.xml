@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Botonisimo</string>
+    <string name="texteable">Soy una cadena de texto</string>
+    <string name="editable">Soy un editable</string>
+    <string name="botonero">Boton 1</string>
+    <string name="botonero1">Boton 2</string>
+</resources>
